@@ -1,2 +1,2 @@
 # STTandTTSchatbot
-Speech-to-text and text-to-speech chatbot
+This repository is about speech-to-text and text-to-speech chatbot
